@@ -66,12 +66,12 @@
 > I am a <mark>Great Guy</mark>. These numbers are accurate. The captions are not.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=proobker&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=proobker&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=proobker&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proobker&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=proobker&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 <sub>Yes the top-langs card is mostly my `node_modules`. Yes that's still a skill.</sub>
@@ -265,7 +265,7 @@ $$\color{green}{\text{"it works" confidence: }} \color{green}{0.87}\ \color{gray
 flowchart LR
     GB[Galaxy Brain 🧠] --> PR[Pull Shark 🦈]
     YI[YOLO 🎲] --> QD[Quickdraw ⚡]
-    PR --> (( 📜 Developer Program Member ))
+    PR --> (("📜 Developer Program Member"))
 ```
 
 I also unlocked the hidden achievement: **"Pushed during a deadline and nothing broke (once)"**. Requires 1-in-a-million RNG.
@@ -274,7 +274,7 @@ I also unlocked the hidden achievement: **"Pushed during a deadline and nothing 
   <summary>🏅 the full trophy case (expand to be impressed)</summary>
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=proobker&theme=tokyonight&row=2&column=3" alt="Trophies" />
+    <img src="./.github/assets/trophy.svg" alt="Trophies" />
   </p>
 
   <sub>Each trophy = a moment I Googled a fix and it worked on the first try.</sub>
